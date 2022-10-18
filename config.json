@@ -1,0 +1,18 @@
+{
+  "clientId": "ID du bot",
+
+
+  "parentOpened": "ID de la catégorie ou le ticket s'ouvre",
+  "parentModerator": "ID de la catégorie ou le ticket s'ouvre",
+  "parentTechnical": "ID de la catégorie ou le ticket s'ouvre",
+  "parentSuggested": "ID de la catégorie ou le ticket s'ouvre",
+  "parentIssue": "ID de la catégorie ou le ticket s'ouvre",
+
+  "roleSupport": "ID du rôle qui peut voir les tickets",
+
+  
+  "logsTicket": "ID du canal ou les logs seront",
+  "ticketChannel": "ID du canal ou on ouvrira les tickets",
+
+  "footerText": "La modération vous informe que vos tickets sont susceptibles d'être enregistrés.Texte situé dans le footer (info sur la sauvegarde des tickets)"
+}
